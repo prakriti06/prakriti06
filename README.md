@@ -1,4 +1,10 @@
-## Hey 👋 
+# Hey 👋 
+
+- Final year student at NIT Agartala with Computer Science💻 major.
+- Have command over DSA with intuitive problem-solving skills. 
+- Proficient in C++, C, JavaScript, PHP and SQL. 
+- Passionate about implementing and launching new projects in the field of Web Dev.
+- Exploring open source projects and Github.
 
 <!--
 **prakriti06/prakriti06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+# Contributions
 [![@prakriti06's Holopin board](https://holopin.me/prakriti06)](https://holopin.io/@prakriti06)
