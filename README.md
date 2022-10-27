@@ -1,4 +1,4 @@
-# Hey 👋 
+# Hey 👋 I'm Prakriti
 
 - Final year student at NIT Agartala with Computer Science💻 major.
 - Have command over DSA with intuitive problem-solving skills. 
