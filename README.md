@@ -15,11 +15,11 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<!--p align='center'>
+<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=prakriti06&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p-->
+</p>
 
-<a href="https://app.daily.dev/prakritimudgal"><img src="https://github.com/prakriti06/prakriti06/blob/master/devcard.svg" width="400" alt="Prakriti Sharma's Dev Card"/></a>
+<a href="https://app.daily.dev/prakritimudgal"><img src="https://github.com/prakriti06/prakriti06/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a></a>
 
 
 <p align='center'>
