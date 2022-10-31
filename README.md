@@ -15,9 +15,13 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
+<!--p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=prakriti06&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+</p-->
+ 
+<a href="https://app.daily.dev/prakritimudgal"><img src="https://api.daily.dev/devcards/f48f266697b948e393a2964099d3aab2.png?r=4ji" width="400" alt="Prakriti Sharma's Dev Card"/></a>
+
+
 <p align='center'>
  📫 Reach out to me: <a href='mailto:prakritisharma957@gmail.com'>prakritisharma957@gmail.com</a>
 </p>
