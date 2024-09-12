@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Prgramming enthusiast, Student & Back-End Developer.
+  Prgramming enthusiast, Embedded Software Developer.
 </p>
   
 <p align='center'>  
