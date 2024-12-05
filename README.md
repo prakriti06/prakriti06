@@ -37,17 +37,32 @@
 📍 National Institute of Technology, Agartala
 
 ## Experience
+
+- 💼 **Member of Technical Staff** — *Mavenir*  
+  📍 Bengaluru, India &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📆 **July 2023 – Present**  
+  - Embedded software development, image/kernel creation for RFSoC using PetaLinux.  
+  - Worked on DFE IPs for RFSoC, 5G NR, firmware, Linux device drivers, and BSP development.
+
+- 💻 **Graduate Engineer Intern** — *Mavenir*  
+  📍 Bengaluru, India &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📆 **Jan 2023 – June 2023**
+  - Gained experience in Linux Device Tree and PetaLinux tools.  
+  - Contributed to projects on 4G/5G NR, dual boot systems, and Open Radio Access Network (O-RAN) solutions.
+
+- 🌐 **Web Development and Designing Intern** — *The Sparks Foundation*  
+  📍 Remote &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📆 **Sept 2021 – Oct 2021**  
+  - Built a banking transaction web app leveraging HTML, CSS, and PHP.  
+  - Explored and implemented creative approaches to web design and functionality.
+
   
 ## Skills
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Embedded%20Software%20Development-0052CC?style=flat&logo=cplusplus&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Linux%20Device%20Driver-FCC624?style=flat&logo=linux&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/PetaLinux-0078D4?style=flat&logo=linux&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat&logo=shell&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />  
 <img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />  
-
-
 
 
   
