@@ -35,6 +35,8 @@
   Comp Science & Engineering
   - 📆 2019 - 2023\
 📍 National Institute of Technology, Agartala
+
+## Experience
   
 ## Skills
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
